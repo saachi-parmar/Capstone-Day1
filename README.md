@@ -1,7 +1,7 @@
 # Capstone-Day1
 Python Basics - Beginner's Level
 
-# 📘 Capstone Day 1 – Beginner Python Codes
+# 📘 Beginner Python Codes
 
 This repository contains a collection of beginner-friendly Python programs that cover foundational programming concepts. These small scripts demonstrate key programming constructs such as input/output, conditional statements, loops, string and number operations, and more.
 
